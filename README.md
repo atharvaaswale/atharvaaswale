@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨‍💻 Android developer skilled in Kotlin and Java.<br>🎨 Crafting UI/UX for personal projects in Figma.<br>⚙️ Learning web development with React, Node.js, HTML, and CSS.<br>🎯 Aspiring to master the art of code.<br>🎲 Fun fact: I compose music on strings 🎵</p>
+<p align="left">👨‍💻 Android developer skilled in Kotlin and Java.<br>🎨 Crafting UI/UX for personal projects in Figma.<br>⚙️ Learning web development with React, Node.js, HTML, and CSS.<br>🎯 Aspiring to master the art of code.<br>🎲 Fun fact: I can develop music on strings</p>
 
 ###
 
