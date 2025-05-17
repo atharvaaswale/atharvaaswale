@@ -1,6 +1,6 @@
 # Namaskar 🙏
 
-I'm Atharva, a passionate **Data Analyst** with a background in Android development, dedicated to uncovering insights from data.
+I'm Atharva, a passionate **Data Analyst** with a background in Android development.
 
 ## About Me
 
@@ -25,12 +25,12 @@ I'm Atharva, a passionate **Data Analyst** with a background in Android developm
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powerbi](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" height="40" alt="powerbi logo"  />
 <!--   <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ## Connect with Me
 
-Feel free to explore my repositories or reach out to discuss data, code, or music!
+Feel free to explore my repositories or reach out to discuss.
