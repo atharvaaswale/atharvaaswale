@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Atharva and I'm Android Developer from Navi Mumbai, India</p>
+<p align="left">My name is Atharva. I'm Data Analyst and former Android Developer</p><!-- from Navi Mumbai, India -->
 
 ###
 
