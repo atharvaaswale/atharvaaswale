@@ -1,47 +1,36 @@
-<div align="left">
-  <img height="200" src="https://i.ibb.co/9387pw6/github-bg.jpg"  />
-</div>
+# Namaskar 🙏
 
-###
+I'm Atharva, a passionate **Data Analyst** with a background in Android development, dedicated to uncovering insights from data.
 
-<h1 align="left">Namaskar🙏</h1>
+## About Me
 
-###
+- 📊 Skilled in transforming raw data into actionable insights using Python, SQL, and visualization tools.
+- 📈 Experienced in statistical analysis, data modeling, and creating interactive dashboards.
+- ⚙️ Familiar with web technologies (React, Node.js, HTML, CSS) for building data-driven applications.
+- 🎨 Proficient in designing intuitive data visualizations and UI/UX with tools like Tableau and Figma.
+- 🎲 Fun fact: I create music on strings when I'm not crunching numbers!
 
-<p align="left">My name is Atharva. I'm Data Analyst and former Android Developer</p><!-- from Navi Mumbai, India -->
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👨‍💻 Android developer skilled in Kotlin and Java.<br>🎨 Crafting UI/UX for personal projects in Figma.<br>⚙️ Exploring web applications with React, Node.js, HTML, and CSS.<br>🎯 Aspiring to master the art of code.<br>🎲 Fun fact: I can develop music on strings</p>
-
-###
-
-<h2 align="left">Technologies & Tools</h2>
-
-###
+## Technologies & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  /> -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=powerbi](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" height="40" alt="powerbi logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"  /> -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
-###
+## Connect with Me
+
+Feel free to explore my repositories or reach out to discuss data, code, or music!
