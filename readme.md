@@ -21,12 +21,12 @@ I build **AI-powered applications** that solve real-world problems — combining
 
 * LLM APIs, LangChain, RAG
 * FAISS, Embeddings, Vector Search
-* Scikit-learn, NLP basics
+* Scikit-learn, NLP
 
 **Backend & Deployment**
 
-* Python, FastAPI (learning phase)
-* Streamlit, Docker (basics)
+* Python, FastAPI
+* Streamlit, Docker
 
 **Software Engineering**
 
