@@ -8,7 +8,7 @@ I build **AI-powered applications** that solve real-world problems — combining
 
 ## 🚀 What I Do
 
-* Build **LLM-powered applications** using LangChain, FAISS, and modern APIs
+* Build **LLM-powered applications** using LangChain, LangGraph, Vector DBs, and modern APIs
 * Design **Retrieval-Augmented Generation (RAG)** systems for domain-specific Q&A
 * Develop **end-to-end AI solutions** — from data processing → model → deployment
 * Leverage prior experience in **Android & backend systems** to ship production-ready apps
@@ -19,7 +19,7 @@ I build **AI-powered applications** that solve real-world problems — combining
 
 **AI / ML**
 
-* LLM APIs, LangChain, RAG
+* LLM APIs, LangChain, LangGraph RAG
 * FAISS, Embeddings, Vector Search
 * Scikit-learn, NLP
 
